@@ -1,0 +1,1 @@
+from aoc_2023.base import *
